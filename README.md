@@ -1,6 +1,6 @@
 # everestengineering
 Coding challenge
-@Author : shahid
+@Author : Shahid
 
 
 Tips to execute this project 
