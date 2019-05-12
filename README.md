@@ -11,5 +11,6 @@ Dowload or clone the project from this repository
 
 2. The other way is to run the feature file and this should also give some reporting as well.
 
-Note: Tested the application on the Chrome 
+Note: Tested the application on the Chrome
+
       Firefox is not tested
